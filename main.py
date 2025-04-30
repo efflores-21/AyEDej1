@@ -1,3 +1,7 @@
+# Ejercicio 1: Una escuela de educación primaria requiere un algoritmo que muestre los datos de los estudiantes de un salón de clase ordenados de forma ascendente, según un parámetro indicado; este parámetro puede ser cualquiera de los siguientes campos: carnet, nombres, apellidos, peso, estatura, sexo, promedio.
+# Grupo: Elias Flores, Carlos Acuña, Harvey Gonzalez
+# Version 1.0
+
 from estudiante import Estudiante  # Importa la clase Estudiante desde el módulo estudiante
 from lista_enlazada import ListaEnlazada  # Importa la clase ListaEnlazada desde el módulo lista_enlazada
 
